@@ -10,7 +10,8 @@ This repository explains Stripline Transmission Lines used in high-frequency and
 6. Disadvantages
 7. Applications
 8. Stripline vs Microstrip
-9. Real-life Analogy
+9. Realtime Applications 
+10. Real-life Analogy
 
 Stripline is a planar transmission line where the signal conductor is placed between two ground planes separated by dielectric material. It is mainly used in RF and microwave circuits because of its excellent shielding and low interference.
 # Introduction
