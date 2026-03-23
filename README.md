@@ -248,6 +248,9 @@ A stripline can be compared to a road inside a tunnel.
 - Tunnel walls → Ground planes
 - Vehicle → Electrical signal
 
+![WhatsApp Image 2026-03-23 at 4 03 21 AM](https://github.com/user-attachments/assets/b05cb97b-08df-4b9e-a9ed-ac07607e851a)
+
+
 Because the road is inside a tunnel, external disturbances cannot affect the vehicle easily.
 
 Similarly, stripline protects the signal from interference.
